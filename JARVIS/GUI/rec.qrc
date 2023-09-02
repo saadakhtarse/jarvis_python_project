@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>exit.jpg</file>
+    <file>initiating.jpeg</file>
+    <file>loading.gif</file>
+    <file>tuse.png</file>
+  </qresource>
+</RCC>

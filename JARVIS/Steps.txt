@@ -1,0 +1,60 @@
+install python, VS code
+create folder in C: directory
+
+SHIFT + Right Click (open powerShell)
+write: code .
+(vs code will open)
+
+create: jarvis.py
+code: import pttsx3 and speek function
+
+make functions....
+
+pip install speechRecognition /// 
+
+import ....
+code...
+
+pip install wikipedia
+import...
+code...
+
+pip install webbrowser
+
++ code for google youtube
+webbrowser.open("google.com")
+
+pip install pywhatkit
++ code for google search and speak summary
+
++ open file video audio by voice
+
++ input hindi traslate to English and understand
+pip install googletrans==3.1.0a0
+
++code for translation
+code....
+
++ using selenium library for web site opening
+ 
++ SMTPlib fro email sending
+
++ import os
+os is used for file handling in winodws.
+using os to find all music in windows .mp3
+
++ import pygame
+to play Alram tune in background
+
++ import openai
+pip install openai
+
++ pip install chatterbot_corpus
+
+
+
+
+
+
+
+

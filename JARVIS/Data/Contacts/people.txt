@@ -1,0 +1,10 @@
+saad, male, saad.akhtar.se@gmail.com
+asad, male, saadsaifalasad@gmail.com
+jack, male, f2019065077@umt.edu.pk 
+kashana, female, s2020001032@umt.edu.pk
+bushra, female, f2019065178@umt.edu.pk
+shoaib, male, f2019065073@umt.edu.pk
+
+
+
+exit, exit, exit

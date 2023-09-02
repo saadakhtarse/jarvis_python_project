@@ -1,0 +1,4 @@
+past JARVIS folder in C:\ drive
+make sure 'Internet' is working
+
+Run -> Main.pyw (file)
